@@ -29,5 +29,7 @@ In our work, we filter the raw data to generate the data required for training t
 Firstly, we will filter all the data of the taxis that need to be extracted based on their taxi ID. After sorting the filtered data by `date`, we will select the trajectory points with `load` values of `0` and `1` respectively to form the final dataset used for training which is  represented as $((l_1, time, dow), ..., (l_m, time, dow))$ and $(l_m, ..., l_{m+n})$ in our work.
 
 The following figure shows a subset of the filtered data.
+
+
 <img width="210" alt="image" src="https://github.com/BigBrotherChou/trajectories_data/assets/39646185/42165f8a-794a-4586-bf6a-92158afd679e">
 
