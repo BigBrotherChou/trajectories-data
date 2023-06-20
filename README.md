@@ -1,7 +1,7 @@
 # trajectories_data
 Dataset demo of trajectories of taxis
 ## Structure of the dataset
-The raw data of taxi is saved in the file named `data.csv` in the directory `raw_trajectory_data` . the structure of the dataset is arranged as follows:
+The raw data demo of taxi is saved in the file named `data.csv` in the directory `raw_trajectory_data` . the structure of the dataset is arranged as follows:
 || Seial ID | taxi ID  | date     | lng | lat | angle| load|sped|
 |-| -------- | -------- | -------- |-------- |-------- |----|-------- |---|
 || ...| ...| ... |...|...|... |...|...|
@@ -33,3 +33,4 @@ The following figure shows a subset of the filtered data.
 
 <img width="210" alt="image" src="https://github.com/BigBrotherChou/trajectories_data/assets/39646185/42165f8a-794a-4586-bf6a-92158afd679e">
 
+For more detail raw data, please visit https://drive.google.com/open?id=1wVI7P9yKHDfivRbxHpI5kBt_7iV0cNug&usp=drive_fs
