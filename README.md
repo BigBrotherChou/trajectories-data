@@ -33,4 +33,4 @@ The following figure shows a subset of the filtered data.
 
 <img width="210" alt="image" src="https://github.com/BigBrotherChou/trajectories_data/assets/39646185/42165f8a-794a-4586-bf6a-92158afd679e">
 
-For more detail raw data, please visit [Google Drive](https://drive.google.com/open?id=1wVI7P9yKHDfivRbxHpI5kBt_7iV0cNug&usp=drive_fs)
+For more detail raw data, please visit [Google Drive](https://drive.google.com/drive/folders/1wVI7P9yKHDfivRbxHpI5kBt_7iV0cNug?usp=sharing)
